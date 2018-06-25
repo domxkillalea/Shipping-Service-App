@@ -1,0 +1,10 @@
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\obj\Debug\Parcel Project.csprojAssemblyReference.cache
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\obj\Debug\Parcel_Project.Properties.Resources.resources
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\obj\Debug\Parcel Project.csproj.GenerateResource.cache
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\obj\Debug\Parcel Project.csproj.CoreCompileInputs.cache
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\bin\Debug\Parcel Project.exe.config
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\bin\Debug\Parcel Project.exe
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\bin\Debug\Parcel Project.pdb
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\obj\Debug\Parcel_Project.Form1.resources
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\obj\Debug\Parcel Project.exe
+C:\Users\1JZ\source\repos\Parcel Project\Parcel Project\obj\Debug\Parcel Project.pdb
